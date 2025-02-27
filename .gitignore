@@ -1,6 +1,8 @@
 # Node.js dependencies
 node_modules/
 
+tokens/
+
 # Environment variables
 .env
 .env.local
